@@ -1,4 +1,4 @@
-# powerbi-sales-analytics
+# Powerbi-sales-analytics
 Power BI  project for data analysts
 
 # 📌 Project Overview
